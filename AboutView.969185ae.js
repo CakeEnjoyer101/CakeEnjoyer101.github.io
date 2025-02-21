@@ -1,0 +1,1 @@
+import{_ as t}from"./index.4c2024cf.js";import{o,c as a,a as e,e as s}from"./vendor.f4d1030c.js";const c={},r={class:"about"},n=e("p",null,[s("Pssst. This is the "),e("span",{class:"fw-bold"},"About"),s(" view")],-1),_=e("p",{class:"fs-5"},"Sven-Erik Reinhart, 2025.",-1),i=[n,_];function d(l,f){return o(),a("div",r,i)}var u=t(c,[["render",d]]);export{u as default};
